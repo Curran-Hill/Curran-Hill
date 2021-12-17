@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Curran-Hill
-- 👀 I’m interested in Web dev. (front and back end)
-- 🌱 I’m currently learning web dev.
+- 👀 I’m interested in white hat hacking
+- 🌱 I’m currently learning ethicl hacking uses
 - 💞️ I’m looking to collaborate on Nothing at the moment
-- 📫 How to reach me: Text (469)-834-8418
+- 📫 How to reach me: Email- currankhill@gmail.com
 
 <!---
 Curran-Hill/Curran-Hill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
