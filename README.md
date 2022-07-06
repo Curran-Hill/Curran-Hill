@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Curran-Hill
-- 👀 I’m interested in white hat hacking
-- 🌱 I’m currently learning ethicl hacking uses
-- 💞️ I’m looking to collaborate on Nothing at the moment
 - 📫 How to reach me: Email- currankhill@gmail.com
 
 <!---
